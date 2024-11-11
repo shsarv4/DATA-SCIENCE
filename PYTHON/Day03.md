@@ -301,5 +301,4 @@ By the end of today, Swati, you should be comfortable with using strings, perfor
 
 ---
 
-This detailed breakdown ensures that Swati gets hands-on experience with essential string operations, along with exercises and challenges that bring real learning. Let me know if you’re ready for **Day 4**!
 #### [Prev](./PYTHON/Day03.md) ___ [Next](./PYTHON/Day05.md)
