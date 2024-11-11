@@ -299,6 +299,9 @@ By the end of today, Swati, you should be comfortable with using strings, perfor
 2. How would you find the length of a string in Python?
 3. Write an example where you join a list of words with a custom separator.
 
+## Cheatsheet
+![Cheetsheet](./../Resources/String_cheetsheet.jpg)
+
 ---
 
 #### [Prev](./PYTHON/Day03.md) ___ [Next](./PYTHON/Day05.md)
