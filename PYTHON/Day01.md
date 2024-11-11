@@ -3,6 +3,10 @@
 ### **Objective**
 By the end of Day 1, you’ll have installed Python, understand what Python is and why it's popular, and gain hands-on experience with basic commands and Python’s interactive interpreter. You’ll also start programming by writing and running simple scripts.
 
+#### Video Links
+1. [https://www.youtube.com/watch?v=7wnove7K-ZQ&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg](https://www.youtube.com/watch?v=7wnove7K-ZQ&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
+2. [https://www.youtube.com/watch?v=7IWOYhfAcVg&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=4](https://www.youtube.com/watch?v=7IWOYhfAcVg&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=4)
+3. [https://www.youtube.com/watch?v=qxPMmW93eDs&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=5](https://www.youtube.com/watch?v=qxPMmW93eDs&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=5)
 ---
 
 ### **1. Theory**
