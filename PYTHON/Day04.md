@@ -1,7 +1,13 @@
-## **Day 5: Loops, Break, and Continue**
+<h1 align="center">🌱 30 Days of Python 🌱</h1>
+<p align="center">
+  <a href="./Day03.md" target=""><img align="center" src="./../Resources/back.png" width="100" /></a>  <a href="./Day05.md" target=""><img align="center" src="./../Resources/next.png" width="100" /></a>
+</p>
+
+
+## **Day 4: Loops, Break, and Continue**
 
 ### **Objective**
-By the end of Day 5, You will be able to use loops to repeat tasks, understand how to control loop execution with `break` and `continue`, and apply loops in various real-world scenarios.
+By the end of Day 4, You will be able to use loops to repeat tasks, understand how to control loop execution with `break` and `continue`, and apply loops in various real-world scenarios.
 
 
 ### Vidoes
@@ -317,9 +323,11 @@ By the end of today, you should be comfortable using loops to repeat tasks, unde
 2. Write an example where you use `continue` to skip even numbers.
 3. How do you stop a loop from executing once a certain condition is met?
 
----
-
 ### Hackerrank Problems
-1. **[]()**
+1. [LPrint Table](https://www.hackerrank.com/challenges/30-loops/problem?isFullScreen=true)
+2. [Square of i](https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true)
+----------------------
 
-#### [Prev](./Day04.md) ___ [Next](./Day06.md)
+<p align="center"> <a href="./Day02.md" target=""><img align="center" src="./../Resources/back.png" width="100" /></a>  <a href="./Day04.md" target=""><img align="center" src="./../Resources/next.png" width="100" /></a> </p>
+
+---------------
