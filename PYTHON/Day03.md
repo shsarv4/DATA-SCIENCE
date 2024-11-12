@@ -7,7 +7,7 @@
 ## **Day 3: Strings and String Manipulation**
 
 ### **Objective**
-By the end of Day 3, Swati, you will understand strings, know how to manipulate them, and be familiar with important string functions in Python. We’ll cover string operations, slicing, and formatting, with hands-on examples.
+By the end of Day 3, you will understand strings, know how to manipulate them, and be familiar with important string functions in Python. We’ll cover string operations, slicing, and formatting, with hands-on examples.
 
 #### Video Links
 
@@ -293,7 +293,7 @@ print(phrase[-6:])     # Output: Python
 
 ### **5. Wrap-Up: Review and Reflection**
 
-By the end of today, Swati, you should be comfortable with using strings, performing different types of operations, and working with string methods.
+By the end of today, you should be comfortable with using strings, performing different types of operations, and working with string methods.
 
 #### **Reflection Questions**
 1. How can you use string slicing to select specific parts of text?
