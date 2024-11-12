@@ -304,4 +304,4 @@ By the end of today, Swati, you should be comfortable with using strings, perfor
 
 ---
 
-#### [Prev](./PYTHON/Day02.md) ___ [Next](./PYTHON/Day04.md)
+#### [Prev](./Day02.md) ___ [Next](./Day04.md)
