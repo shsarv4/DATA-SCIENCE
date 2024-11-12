@@ -328,6 +328,6 @@ By the end of today, you should be comfortable using loops to repeat tasks, unde
 2. [Square of i](https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true)
 ----------------------
 
-<p align="center"> <a href="./Day02.md" target=""><img align="center" src="./../Resources/back.png" width="100" /></a>  <a href="./Day04.md" target=""><img align="center" src="./../Resources/next.png" width="100" /></a> </p>
+<p align="center"> <a href="./Day03.md" target=""><img align="center" src="./../Resources/back.png" width="100" /></a>  <a href="./Day05.md" target=""><img align="center" src="./../Resources/next.png" width="100" /></a> </p>
 
 ---------------
