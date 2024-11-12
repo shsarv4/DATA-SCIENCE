@@ -178,3 +178,5 @@ By the end of today, you should be comfortable with the basics of Python install
 2. How can you make your code more readable using comments?
 
 Each day will build upon these basics, so ensure you’re comfortable with today’s exercises before moving on.
+
+## [Next](./Day02.md)
