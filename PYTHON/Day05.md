@@ -1,7 +1,12 @@
-## **Day 6: Functions, Arguments, and Lambda Functions**
+<h1 align="center">🌱 30 Days of Python 🌱</h1>
+<p align="center">
+  <a href="./Day04.md" target=""><img align="center" src="./../Resources/back.png" width="100" /></a>  <a href="./Day06.md" target=""><img align="center" src="./../Resources/next.png" width="100" /></a>
+</p>
+
+## **Day 5: Functions, Arguments, and Lambda Functions**
 
 ### **Objective**
-By the end of Day 6, You will understand how to create and use functions, work with different types of arguments, and use lambda functions for concise operations.
+By the end of Day 5, You will understand how to create and use functions, work with different types of arguments, and use lambda functions for concise operations.
 
 ### Vidoes
 1. **[Video 1](https://www.youtube.com/watch?v=ceiuLR2ysas&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=20)**
@@ -174,6 +179,8 @@ display_profile(name="Swati", age=25, city="Bhopal", profession="Engineer")
 
 ---
 
+### we Will Understand Lamda Function Again after completing List , string , set, tuples and dictionary.
+
 ### **3. Lambda Functions**
 
 #### **3.1 What is a Lambda Function?**
@@ -268,9 +275,7 @@ These exercises will reinforce Swati’s understanding of functions, arguments, 
 5. **Exercise: Filtering Odd Numbers**
    - Use `filter()` and a lambda function to filter out only odd numbers from a list.
    ```python
-   numbers = [1, 2, 
-
-3, 4, 5, 6, 7, 8, 9, 10]
+   numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
    odd_numbers = list(filter(lambda x: x % 2 != 0, numbers))
    print(odd_numbers)  # Output: [1, 3, 5, 7, 9]
    ```
@@ -310,6 +315,9 @@ These exercises will reinforce Swati’s understanding of functions, arguments, 
 
 ---
 
+### Built-in Functions in Python
+
+<img src="./../Resources/functions.jpg" />
 ### **6. Wrap-Up: Review and Reflection**
 
 By the end of today, YOu should feel comfortable with defining and calling functions, using different types of arguments, and leveraging lambda functions.
@@ -327,6 +335,10 @@ By the end of today, YOu should feel comfortable with defining and calling funct
 ---
 
 ### Hackerrank Problems
-1. **[]()**
+1. **[](https://www.hackerrank.com/challenges/python-print/problem?isFullScreen=true)**
+2. [](https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true)
 
-#### [Prev](./Day05.md) ___ [Next](./Day07.md)
+---
+<p align="center"> <a href="./Day04.md" target=""><img align="center" src="./../Resources/back.png" width="100" /></a>  <a href="./Day06.md" target=""><img align="center" src="./../Resources/next.png" width="100" /></a> </p>
+
+---------------
