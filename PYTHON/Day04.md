@@ -422,4 +422,4 @@ By the end of today, you should feel comfortable using conditional statements an
 ### Hackerrank Problems
 1. **[]()**
 
-#### [Prev](./PYTHON/Day03.md) ___ [Next](./PYTHON/Day05.md)
+#### [Prev](./Day03.md) ___ [Next](./Day05.md)
