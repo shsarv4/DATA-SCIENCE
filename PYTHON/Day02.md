@@ -1,3 +1,8 @@
+<h1 align="center">🌱 30 Days of Python 🌱</h1>
+<p align="center">
+  <a href="./Day01.md" target=""><img align="center" src="./../Resources/back.png" width="100" /></a>  <a href="./Day03.md" target=""><img align="center" src="./../Resources/next.png" width="100" /></a>
+</p>
+
 ## **Day 2: Variables and Data Types**
 
 ### **Objective**
@@ -6,9 +11,9 @@ By the end of Day 2, Swati, you will understand variables, how to use them effec
 
 #### Video Links
 
-1. [https://www.youtube.com/watch?v=ORCuz7s5cCY&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=6](https://www.youtube.com/watch?v=ORCuz7s5cCY&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=6)
-2. [https://www.youtube.com/watch?v=Pu5bqySSSS0&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=9](https://www.youtube.com/watch?v=Pu5bqySSSS0&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=9)
-3. [https://www.youtube.com/watch?v=WvG-R-xXouA&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=10](https://www.youtube.com/watch?v=WvG-R-xXouA&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=10)
+1. [Vid 1](https://www.youtube.com/watch?v=ORCuz7s5cCY&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=6)
+2. [Vid 2](https://www.youtube.com/watch?v=Pu5bqySSSS0&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=9)
+3. [Vid 3](https://www.youtube.com/watch?v=WvG-R-xXouA&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=10)
 ---
 
 
@@ -236,5 +241,13 @@ By the end of today, Swati should be comfortable with the essentials of variable
    - `3.14`
 2. What happens if you add an integer and a float in Python? Try it out!
 
-#### [Prev](./Day01.md) ___ [Next](./Day03.md)
+### Hackerrank Problems
+1. [Arhmetic operations](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true)
+2. [Divisions](https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true)
+3. [Data Types](https://www.hackerrank.com/challenges/30-data-types/problem?isFullScreen=true)
+4. [Operators](https://www.hackerrank.com/challenges/30-operators/problem?isFullScreen=true)
+
+<p align="center">
+  <a href="./Day01.md" target=""><img align="center" src="./../Resources/back.png" width="100" /></a>  <a href="./Day03.md" target=""><img align="center" src="./../Resources/next.png" width="100" /></a>
+</p>
 
