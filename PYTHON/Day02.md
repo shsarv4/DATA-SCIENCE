@@ -236,5 +236,5 @@ By the end of today, Swati should be comfortable with the essentials of variable
    - `3.14`
 2. What happens if you add an integer and a float in Python? Try it out!
 
-#### [Prev](./PYTHON/Day01.md) ___ [Next](./PYTHON/Day03.md)
+#### [Prev](./Day01.md) ___ [Next](./Day03.md)
 
