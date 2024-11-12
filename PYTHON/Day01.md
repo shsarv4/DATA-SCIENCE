@@ -1,12 +1,17 @@
+<h1 align="center">🌱 30 Days of Python 🌱</h1>
+<p align="center">
+  <a href="./Day02.md" target=""><img align="center" src="./../Resources/next.png" width="100" /></a>
+</p>
+
 ## **Day 1: Python Fundamentals, Installation, and Your First Program**
 
 ### **Objective**
 By the end of Day 1, you’ll have installed Python, understand what Python is and why it's popular, and gain hands-on experience with basic commands and Python’s interactive interpreter. You’ll also start programming by writing and running simple scripts.
 
 #### Video Links
-1. [https://www.youtube.com/watch?v=7wnove7K-ZQ&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg](https://www.youtube.com/watch?v=7wnove7K-ZQ&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
-2. [https://www.youtube.com/watch?v=7IWOYhfAcVg&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=4](https://www.youtube.com/watch?v=7IWOYhfAcVg&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=4)
-3. [https://www.youtube.com/watch?v=qxPMmW93eDs&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=5](https://www.youtube.com/watch?v=qxPMmW93eDs&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=5)
+1. [Video 1](https://www.youtube.com/watch?v=7wnove7K-ZQ&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
+2. [Vidoes 2](https://www.youtube.com/watch?v=7IWOYhfAcVg&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=4)
+3. [Vidoes 3](https://www.youtube.com/watch?v=qxPMmW93eDs&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=5)
 ---
 
 ### **1. Theory**
@@ -177,6 +182,11 @@ By the end of today, you should be comfortable with the basics of Python install
 1. What are the benefits of using an interpreter versus a script?
 2. How can you make your code more readable using comments?
 
-Each day will build upon these basics, so ensure you’re comfortable with today’s exercises before moving on.
 
-## [Next](./Day02.md)
+### Hackerrank Problems
+1. **[Hello World!](https://www.hackerrank.com/challenges/py-hello-world/problem)**
+
+
+<p align="center">
+  <a href="./Day02.md" target=""><img align="center" src="./../Resources/next.png" width="100" /></a>
+</p>
