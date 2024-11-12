@@ -6,7 +6,7 @@
 ## **Day 2: Variables and Data Types**
 
 ### **Objective**
-By the end of Day 2, Swati, you will understand variables, how to use them effectively, and become familiar with Python’s basic data types. Today’s session will go deep into how variables work, how Python handles data, and practical applications that connect with her daily life.
+By the end of Day 2, you will understand variables, how to use them effectively, and become familiar with Python’s basic data types. Today’s session will go deep into how variables work, how Python handles data, and practical applications that connect with her daily life.
 
 
 #### Video Links
@@ -226,7 +226,7 @@ For a bit of extra practice, here are some more challenging problems.
 
 ### **5. Wrap-Up: Review and Reflection**
 
-By the end of today, Swati should be comfortable with the essentials of variables and data types, as well as how to display and manipulate these variables.
+By the end of today, You should be comfortable with the essentials of variables and data types, as well as how to display and manipulate these variables.
 
 #### **Reflection Questions**
 1. What’s the difference between a string, an integer, and a float?
