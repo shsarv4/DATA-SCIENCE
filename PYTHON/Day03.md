@@ -1,3 +1,9 @@
+<h1 align="center">🌱 30 Days of Python 🌱</h1>
+<p align="center">
+  <a href="./Day02.md" target=""><img align="center" src="./../Resources/back.png" width="100" /></a>  <a href="./Day04.md" target=""><img align="center" src="./../Resources/next.png" width="100" /></a>
+</p>
+
+
 ## **Day 3: Strings and String Manipulation**
 
 ### **Objective**
@@ -5,9 +11,9 @@ By the end of Day 3, Swati, you will understand strings, know how to manipulate 
 
 #### Video Links
 
-1. [https://www.youtube.com/watch?v=ORCuz7s5cCY&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=11](https://www.youtube.com/watch?v=ORCuz7s5cCY&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=11)
-2. [https://www.youtube.com/watch?v=Pu5bqySSSS0&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=12](https://www.youtube.com/watch?v=Pu5bqySSSS0&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=12)
-3. [https://www.youtube.com/watch?v=WvG-R-xXouA&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=13](https://www.youtube.com/watch?v=WvG-R-xXouA&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=13)
+1. [Vid 1](https://www.youtube.com/watch?v=ORCuz7s5cCY&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=11)
+2. [Vid 2](https://www.youtube.com/watch?v=Pu5bqySSSS0&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=12)
+3. [Vid 3](https://www.youtube.com/watch?v=WvG-R-xXouA&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=13)
 ---
 
 ### **1. Theory**
@@ -302,6 +308,13 @@ By the end of today, Swati, you should be comfortable with using strings, perfor
 ## Cheatsheet
 ![Cheetsheet](./../Resources/String_cheetsheet.jpg)
 
----
+### Hackerrank Problems
+1. [Weird/not Weird](https://www.hackerrank.com/challenges/30-conditional-statements/problem?isFullScreen=true)
+2. []()
+3. []()
+4. []()
+----------------------
 
-#### [Prev](./Day02.md) ___ [Next](./Day04.md)
+<p align="center"> <a href="./Day02.md" target=""><img align="center" src="./../Resources/back.png" width="100" /></a>  <a href="./Day04.md" target=""><img align="center" src="./../Resources/next.png" width="100" /></a> </p>
+
+---------------
