@@ -322,4 +322,4 @@ By the end of today, you should be comfortable using loops to repeat tasks, unde
 ### Hackerrank Problems
 1. **[]()**
 
-#### [Prev](./PYTHON/Day04.md) ___ [Next](./PYTHON/Day06.md)
+#### [Prev](./Day04.md) ___ [Next](./Day06.md)
