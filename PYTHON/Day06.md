@@ -1,13 +1,13 @@
 <h1 align="center">🌱 30 Days of Python 🌱</h1>
 <p align="center">
-  <a href="./Day02.md" target=""><img align="center" src="./../Resources/back.png" width="100" /></a>  <a href="./Day04.md" target=""><img align="center" src="./../Resources/next.png" width="100" /></a>
+  <a href="./Day05.md" target=""><img align="center" src="./../Resources/back.png" width="100" /></a>  <a href="./Day07.md" target=""><img align="center" src="./../Resources/next.png" width="100" /></a>
 </p>
 
 
-## **Day 3: Strings and String Manipulation**
+## **Day 6: Strings and String Manipulation**
 
 ### **Objective**
-By the end of Day 3, you will understand strings, know how to manipulate them, and be familiar with important string functions in Python. We’ll cover string operations, slicing, and formatting, with hands-on examples.
+By the end of Day 6, you will understand strings, know how to manipulate them, and be familiar with important string functions in Python. We’ll cover string operations, slicing, and formatting, with hands-on examples.
 
 #### Video Links
 
@@ -309,12 +309,9 @@ By the end of today, you should be comfortable with using strings, performing di
 ![Cheetsheet](./../Resources/String_cheetsheet.jpg)
 
 ### Hackerrank Problems
-1. [Weird/not Weird](https://www.hackerrank.com/challenges/30-conditional-statements/problem?isFullScreen=true)
-2. []()
-3. []()
-4. []()
+1. [All 14 Questions](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-strings)
 ----------------------
 
-<p align="center"> <a href="./Day02.md" target=""><img align="center" src="./../Resources/back.png" width="100" /></a>  <a href="./Day04.md" target=""><img align="center" src="./../Resources/next.png" width="100" /></a> </p>
+<p align="center"> <a href="./Day05.md" target=""><img align="center" src="./../Resources/back.png" width="100" /></a>  <a href="./Day07.md" target=""><img align="center" src="./../Resources/next.png" width="100" /></a> </p>
 
 ---------------
