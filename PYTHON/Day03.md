@@ -1,13 +1,16 @@
-## **Day 4: Conditional Statements**
+<h1 align="center">🌱 30 Days of Python 🌱</h1>
+<p align="center">
+  <a href="./Day02.md" target=""><img align="center" src="./../Resources/back.png" width="100" /></a>  <a href="./Day04.md" target=""><img align="center" src="./../Resources/next.png" width="100" /></a>
+</p>
+
+## **Day 3: Conditional Statements**
 
 ### **Objective**
-By the end of Day 4, You, will understand how to use conditional statements (`if`, `elif`, and `else`) to make decisions in her Python programs. We’ll go over comparison and logical operators, nested conditions, and practical applications.
+By the end of Day 3, You, will understand how to use conditional statements (`if`, `elif`, and `else`) to make decisions in her Python programs. We’ll go over comparison and logical operators, nested conditions, and practical applications.
 
 ### Vidoes
 1. **[Video 1](https://www.youtube.com/watch?v=ceiuLR2ysas&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=14)**
-
----
----
+------
 
 ### **1. Theory**
 
@@ -294,7 +297,8 @@ These exercises will help Swati practice writing conditional statements and impr
      ```
 
 ---
-
+-----
+## Read this Section After Completing List, String, Tuples, Sets & Dictionary , now move directly to [point_4](#4-challenge-problems).
 
 ### **Shorthand Notation for Conditional Statements**
 
@@ -370,9 +374,10 @@ Python provides shorthand methods to simplify conditional logic, making it more 
   condition = lambda x: "Positive" if x > 0 else "Negative"
   print(condition(5))
   ```
+----------------
+--------------
 
-
-### **4. Challenge Problems**
+### **4-Challenge Problems**
 
 1. **Leap Year Checker**:
 
@@ -420,6 +425,9 @@ By the end of today, you should feel comfortable using conditional statements an
 3. Write a simple example of nested conditionals.
 
 ### Hackerrank Problems
-1. **[]()**
+1. [Weird/not Weird](https://www.hackerrank.com/challenges/30-conditional-statements/problem?isFullScreen=true)
+----------------------
 
-#### [Prev](./Day03.md) ___ [Next](./Day05.md)
+<p align="center"> <a href="./Day02.md" target=""><img align="center" src="./../Resources/back.png" width="100" /></a>  <a href="./Day04.md" target=""><img align="center" src="./../Resources/next.png" width="100" /></a> </p>
+
+---------------
