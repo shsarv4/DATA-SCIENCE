@@ -15,6 +15,7 @@ By the end of Day 10, you will:
 ### Vidoes
 1. **[Video 1](https://www.youtube.com/watch?v=4LKo6dlku7M&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=36&ab_channel=CodeWithHarry)**
 2. **[Video 2](https://www.youtube.com/watch?v=4LKo6dlku7M&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=37&ab_channel=CodeWithHarry)**
+3. **[Video 3](https://www.youtube.com/watch?v=4LKo6dlku7M&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=38&ab_channel=CodeWithHarry)**
 ---
 
 ### **1. What Are Exceptions?**
