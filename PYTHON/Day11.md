@@ -1,5 +1,5 @@
 <h1 align="center">🌱 30 Days of Python 🌱</h1>
-<p align="center"> <a href="./Day02.md" target=""><img align="center" src="./../Resources/back.png" width="100" /></a>  <a href="./Day04.md" target=""><img align="center" src="./../Resources/next.png" width="100" /></a> </p>
+<p align="center"> <a href="./Day10.md" target=""><img align="center" src="./../Resources/back.png" width="100" /></a>  <a href="./Day12.md" target=""><img align="center" src="./../Resources/next.png" width="100" /></a> </p>
 
 
 ## **Day 11: Advance Python Functions**
@@ -479,6 +479,6 @@ Name: Alice, Age: 30
 
 -----------
 
-<p align="center"> <a href="./Day02.md" target=""><img align="center" src="./../Resources/back.png" width="100" /></a>  <a href="./Day04.md" target=""><img align="center" src="./../Resources/next.png" width="100" /></a> </p>
+<p align="center"> <a href="./Day11.md" target=""><img align="center" src="./../Resources/back.png" width="100" /></a>  <a href="./Day12.md" target=""><img align="center" src="./../Resources/next.png" width="100" /></a> </p>
 
 ---------------
