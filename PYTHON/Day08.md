@@ -9,7 +9,7 @@ By the end of Day 8, You will understand tuples thoroughly, including how to cre
 
 ### Vidoes
 1. **[Video 1](https://www.youtube.com/watch?v=ceiuLR2ysas&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=25)**
-2.  **[Video 1](https://www.youtube.com/watch?v=ceiuLR2ysas&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=26)**
+2.  **[Video 2](https://www.youtube.com/watch?v=ceiuLR2ysas&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=26)**
 ---
 
 ### **1. Theory**
