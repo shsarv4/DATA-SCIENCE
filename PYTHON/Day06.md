@@ -4,7 +4,7 @@
 </p>
 
 
-## **Day 6: Strings and String Manipulation**
+## **Day 6: Strings ,String Manipulation, fstring, and doc string**
 
 ### **Objective**
 By the end of Day 6, you will understand strings, know how to manipulate them, and be familiar with important string functions in Python. We’ll cover string operations, slicing, and formatting, with hands-on examples.
@@ -14,6 +14,8 @@ By the end of Day 6, you will understand strings, know how to manipulate them, a
 1. [Vid 1](https://www.youtube.com/watch?v=ORCuz7s5cCY&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=11)
 2. [Vid 2](https://www.youtube.com/watch?v=Pu5bqySSSS0&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=12)
 3. [Vid 3](https://www.youtube.com/watch?v=WvG-R-xXouA&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=13)
+4. [vid 4](https://www.youtube.com/watch?v=ixmxgUf8yIg&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=28&ab_channel=CodeWithHarry)
+5. [vid 5](https://www.youtube.com/watch?v=ixmxgUf8yIg&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=29&ab_channel=CodeWithHarry)
 ---
 
 ### **1. Theory**
@@ -304,6 +306,377 @@ By the end of today, you should be comfortable with using strings, performing di
 1. What does the `replace()` method do?
 2. How would you find the length of a string in Python?
 3. Write an example where you join a list of words with a custom separator.
+
+----
+
+### **f-strings and Docstrings in Python**
+
+
+### **1. f-Strings (Formatted String Literals)**
+
+An **f-string** (formatted string literal) is a feature introduced in Python 3.6 that provides a way to embed expressions inside string literals, using curly braces `{}`. It is one of the most efficient ways to format strings in Python.
+
+#### **Basic Syntax of f-strings**
+
+The basic syntax for f-strings is:
+
+```python
+f"Some text {expression} more text"
+```
+
+Where `expression` can be any valid Python expression, and it will be evaluated and inserted into the string.
+
+#### **Example:**
+
+```python
+name = "Alice"
+age = 25
+greeting = f"Hello, {name}. You are {age} years old."
+print(greeting)
+```
+
+Output:
+```
+Hello, Alice. You are 25 years old.
+```
+
+Here, `{name}` and `{age}` are replaced with their values directly in the string.
+
+---
+
+### **2. Advanced f-strings**
+
+#### **2.1 Expressions Inside f-strings**
+
+You can embed complex expressions inside the curly braces of an f-string. These expressions are evaluated before being inserted into the string.
+
+```python
+x = 10
+y = 5
+result = f"The sum of {x} and {y} is {x + y}."
+print(result)
+```
+
+Output:
+```
+The sum of 10 and 5 is 15.
+```
+
+#### **2.2 Formatting Numbers Inside f-strings**
+
+You can format numbers (e.g., float precision, padding, etc.) inside f-strings using format specifications.
+
+##### **a) Floating-point precision**
+
+```python
+pi = 3.14159265359
+formatted_pi = f"Pi to 3 decimal places: {pi:.3f}"
+print(formatted_pi)
+```
+
+Output:
+```
+Pi to 3 decimal places: 3.142
+```
+
+##### **b) Padding and Aligning Strings**
+
+You can pad strings or numbers to a fixed width and align them using `<`, `>`, or `^`:
+
+```python
+name = "Bob"
+formatted_name = f"Name: {name:<10}"  # Left align, pad with spaces
+print(formatted_name)
+
+number = 42
+formatted_number = f"Number: {number:>5}"  # Right align, pad with spaces
+print(formatted_number)
+```
+
+Output:
+```
+Name: Bob       
+Number:    42
+```
+
+##### **c) Adding Thousands Separator**
+
+For large numbers, you can add a thousands separator using commas:
+
+```python
+large_number = 1000000
+formatted_number = f"Large number: {large_number:,}"
+print(formatted_number)
+```
+
+Output:
+```
+Large number: 1,000,000
+```
+
+##### **d) Date Formatting**
+
+You can format dates inside f-strings using the `datetime` module:
+
+```python
+from datetime import datetime
+now = datetime.now()
+formatted_date = f"Today is: {now:%Y-%m-%d %H:%M:%S}"
+print(formatted_date)
+```
+
+Output:
+```
+Today is: 2024-11-14 14:30:25
+```
+
+Here, `%Y-%m-%d %H:%M:%S` specifies the format.
+
+#### **2.3 Nested f-strings**
+
+You can nest f-strings inside each other for more complex formatting:
+
+```python
+name = "Alice"
+greeting = f"Hello, {f'{name} the Great'}!"
+print(greeting)
+```
+
+Output:
+```
+Hello, Alice the Great!
+```
+
+In this example, the inner f-string is evaluated first, and its result is used in the outer f-string.
+
+#### **2.4 Escape Characters Inside f-strings**
+
+You can use escape characters (like `\n` for new lines, `\t` for tab) inside f-strings:
+
+```python
+greeting = f"Hello,\n{name}!"
+print(greeting)
+```
+
+Output:
+```
+Hello,
+Alice!
+```
+
+#### **2.5 Using f-strings for Dictionaries and Lists**
+
+You can easily format data from dictionaries and lists inside f-strings:
+
+```python
+person = {"name": "Alice", "age": 25}
+formatted_str = f"Name: {person['name']}, Age: {person['age']}"
+print(formatted_str)
+```
+
+Output:
+```
+Name: Alice, Age: 25
+```
+
+For lists:
+
+```python
+numbers = [1, 2, 3]
+formatted_str = f"Numbers: {', '.join(map(str, numbers))}"
+print(formatted_str)
+```
+
+Output:
+```
+Numbers: 1, 2, 3
+```
+
+---
+
+### **3. Docstrings**
+
+A **docstring** is a special string used to document Python code, including modules, classes, methods, and functions. Docstrings are stored as the `__doc__` attribute of objects.
+
+#### **3.1 Basic Syntax of Docstrings**
+
+A docstring is written inside triple quotes (`"""docstring"""` or `'''docstring'''`) and should be placed immediately after the function, class, or module header.
+
+##### **Example:**
+
+```python
+def greet(name):
+    """This function greets the person passed as an argument."""
+    print(f"Hello, {name}!")
+```
+
+To access the docstring of a function, use the `help()` function or the `__doc__` attribute:
+
+```python
+print(greet.__doc__)
+```
+
+Output:
+```
+This function greets the person passed as an argument.
+```
+
+#### **3.2 Documenting Functions with Docstrings**
+
+A well-documented function should include:
+- A brief description of what the function does.
+- Descriptions of the parameters and their types.
+- The return value and its type.
+
+##### **Example:**
+
+```python
+def add_numbers(a: int, b: int) -> int:
+    """
+    Adds two numbers and returns the result.
+    
+    Parameters:
+    a (int): The first number.
+    b (int): The second number.
+    
+    Returns:
+    int: The sum of the two numbers.
+    """
+    return a + b
+```
+
+The `add_numbers` function is now fully documented. You can see the documentation by using `help()`.
+
+```python
+help(add_numbers)
+```
+
+Output:
+```
+Help on function add_numbers in module __main__:
+
+add_numbers(a: int, b: int) -> int
+    Adds two numbers and returns the result.
+    
+    Parameters:
+    a (int): The first number.
+    b (int): The second number.
+    
+    Returns:
+    int: The sum of the two numbers.
+```
+
+#### **3.3 Documenting Classes with Docstrings**
+
+Class docstrings should describe the class, its attributes, and methods.
+
+##### **Example:**
+
+```python
+class Person:
+    """
+    A class used to represent a Person.
+    
+    Attributes:
+    name (str): The name of the person.
+    age (int): The age of the person.
+    
+    Methods:
+    greet(): Prints a greeting message.
+    """
+    
+    def __init__(self, name: str, age: int):
+        self.name = name
+        self.age = age
+    
+    def greet(self):
+        print(f"Hello, my name is {self.name} and I am {self.age} years old.")
+```
+
+Accessing the docstring for the class:
+
+```python
+help(Person)
+```
+
+Output:
+```
+Help on class Person in module __main__:
+
+class Person(builtins.object)
+ |  A class used to represent a Person.
+ |  
+ |  Attributes:
+ |  name (str): The name of the person.
+ |  age (int): The age of the person.
+ |  
+ |  Methods:
+ |  greet(): Prints a greeting message.
+```
+
+#### **3.4 Multi-line Docstrings**
+
+For longer descriptions, it’s common to split the docstring into multiple lines. The first line is a brief description, followed by a more detailed explanation.
+
+```python
+def multiply(a: int, b: int) -> int:
+    """
+    Multiplies two integers and returns the product.
+    
+    This function takes two integers as input, multiplies them, 
+    and returns the result. If either of the inputs is not an integer, 
+    an exception will be raised.
+    """
+    return a * b
+```
+
+#### **3.5 Docstring Conventions**
+
+- **PEP 257**: This is the Python convention for writing docstrings, which suggests placing a one-line summary in the first line of the docstring followed by a blank line and a more detailed description.
+  
+- **Google-style**: A common style where sections like `Args`, `Returns`, and `Raises` are used to document parameters and return types.
+
+```python
+def divide(a: int, b: int) -> float:
+    """
+    Divides two integers and returns the result as a float.
+    
+    Args:
+        a (int): The numerator.
+        b
+
+ (int): The denominator.
+    
+    Returns:
+        float: The result of the division.
+    
+    Raises:
+        ValueError: If the denominator is zero.
+    """
+    if b == 0:
+        raise ValueError("Cannot divide by zero.")
+    return a / b
+```
+
+---
+
+### **4. Summary**
+
+- **f-strings**: A powerful and concise way to format strings. You can embed expressions, format numbers, align text, and work with dates and dictionaries directly inside f-strings.
+  
+- **Docstrings**: Used to document Python code (functions, classes, methods). They should provide clear descriptions of what the code does, the parameters it takes, and the values it returns. Adopting conventions like PEP 257 or Google-style can help in writing consistent and readable docstrings.
+
+Both **f-strings** and **docstrings** improve code readability, maintainability, and efficiency, making your code easier to understand and work with.
+
+---
+
+### **Exercises:**
+
+1. **f-strings**: Write a program that formats and prints the details of a student (name, age, grade) using f-strings.
+2. **Docstrings**: Write a function to calculate the area of a rectangle and document it with a clear docstring.
+3. **Nested f-strings**: Create a dictionary of names and scores, and format the output in a readable table using nested f-strings.
+4. **Class Documentation**: Write a class `Car` that includes attributes like `make`, `model`, `year`, and methods like `start()`, `stop()`. Document the class and its methods using docstrings.
+
 
 ## Cheatsheet
 ![Cheetsheet](./../Resources/String_cheetsheet.jpg)
