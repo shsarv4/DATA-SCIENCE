@@ -10,7 +10,7 @@ By the end of Day 7, You will understand lists thoroughly, be able to perform co
 
 ### Vidoes
 1. **[Video 1](https://www.youtube.com/watch?v=eF6nK5bSlmg&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=22)**
-2. **[Video 2](https://www.youtube.com/watch?v=eF6nK5bSlmg&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=23)**
+2. **[Video 2](https://www.youtube.com/watch?v=scWc3F8LbOo&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=23&ab_channel=CodeWithHarry)**
 ---
 
 ### **1. Theory**
