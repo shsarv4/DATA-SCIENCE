@@ -1,8 +1,8 @@
 <h1 align="center">🌱 30 Days of Python 🌱</h1>
-<p align="center"> <a href="./Day10.md" target=""><img align="center" src="./../Resources/back.png" width="100" /></a>  <a href="./Day12.md" target=""><img align="center" src="./../Resources/next.png" width="100" /></a> </p>
+<p align="center"> <a href="./Day11.md" target=""><img align="center" src="./../Resources/back.png" width="100" /></a>  <a href="./Day13.md" target=""><img align="center" src="./../Resources/next.png" width="100" /></a> </p>
 
 
-## **Day 11: Advance Python Functions**
+## **Day 12: Advance Python Functions**
 
 ### Vidoes
 1. **[Video 1](https://www.youtube.com/watch?v=kGnYc_h1geM&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=42&ab_channel=CodeWithHarry)**
@@ -479,6 +479,6 @@ Name: Alice, Age: 30
 
 -----------
 
-<p align="center"> <a href="./Day11.md" target=""><img align="center" src="./../Resources/back.png" width="100" /></a>  <a href="./Day12.md" target=""><img align="center" src="./../Resources/next.png" width="100" /></a> </p>
+<p align="center"> <a href="./Day11.md" target=""><img align="center" src="./../Resources/back.png" width="100" /></a>  <a href="./Day13.md" target=""><img align="center" src="./../Resources/next.png" width="100" /></a> </p>
 
 ---------------
