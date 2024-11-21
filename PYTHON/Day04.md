@@ -11,9 +11,9 @@ By the end of Day 4, You will be able to use loops to repeat tasks, understand h
 
 
 ### Vidoes
-1. **[Video 1](https://www.youtube.com/watch?v=ceiuLR2ysas&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=17)**
-2. **[Video 2](https://www.youtube.com/watch?v=ceiuLR2ysas&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=18)**
-3. **[Video 3](https://www.youtube.com/watch?v=ceiuLR2ysas&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=19)**
+1. **[Video 1](https://www.youtube.com/watch?v=fIYVzKp0q5w&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=17&ab_channel=CodeWithHarry)**
+2. **[Video 2](https://www.youtube.com/watch?v=-tCFyIyKVx0&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=18&ab_channel=CodeWithHarry)**
+3. **[Video 3](https://www.youtube.com/watch?v=RkwJnjdrm70&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=19&ab_channel=CodeWithHarry)**
 ---
 
 ### **1. Theory**
