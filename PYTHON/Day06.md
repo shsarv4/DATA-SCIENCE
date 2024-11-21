@@ -11,9 +11,9 @@ By the end of Day 6, you will understand strings, know how to manipulate them, a
 
 #### Video Links
 
-1. [Vid 1](https://www.youtube.com/watch?v=ORCuz7s5cCY&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=11)
-2. [Vid 2](https://www.youtube.com/watch?v=Pu5bqySSSS0&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=12)
-3. [Vid 3](https://www.youtube.com/watch?v=WvG-R-xXouA&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=13)
+1. [Vid 1](https://www.youtube.com/watch?v=kMNFQYArrLg&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=11&ab_channel=CodeWithHarry)
+2. [Vid 2](https://www.youtube.com/watch?v=8jW7lpT8HW8&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=12&ab_channel=CodeWithHarry)
+3. [Vid 3](https://www.youtube.com/watch?v=0INvoK_T0cE&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=13&ab_channel=CodeWithHarry)
 4. [vid 4](https://www.youtube.com/watch?v=ixmxgUf8yIg&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=28&ab_channel=CodeWithHarry)
 5. [vid 5](https://www.youtube.com/watch?v=ixmxgUf8yIg&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=29&ab_channel=CodeWithHarry)
 ---
