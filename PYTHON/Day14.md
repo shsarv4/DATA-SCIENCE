@@ -245,5 +245,5 @@ By now, you should have a solid understanding of:
 1. [no problem found](#)
 ----------------------
 
-<h1 align="center">🌱 30 Days of Python 🌱</h1>
+
 <p align="center"> <a href="./Day13.md" target=""><img align="center" src="./../Resources/back.png" width="100" /></a>  <a href="./Day15.md" target=""><img align="center" src="./../Resources/next.png" width="100" /></a> </p>
