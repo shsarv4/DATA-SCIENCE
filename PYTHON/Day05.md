@@ -9,8 +9,8 @@
 By the end of Day 5, You will understand how to create and use functions, work with different types of arguments, and use lambda functions for concise operations.
 
 ### Vidoes
-1. **[Video 1](https://www.youtube.com/watch?v=ceiuLR2ysas&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=20)**
-2.  **[Video 1](https://www.youtube.com/watch?v=ceiuLR2ysas&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=21)**
+1. **[Video 1](https://www.youtube.com/watch?v=dyvxxJSGUsE&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=20&ab_channel=CodeWithHarry)**
+2.  **[Video 1](https://www.youtube.com/watch?v=0d6b6fFuCkE&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=21&ab_channel=CodeWithHarry)**
 ---
 
 ### **1. Theory**
