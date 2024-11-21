@@ -1,5 +1,5 @@
 <h1 align="center">🌱 30 Days of Python 🌱</h1>
-<p align="center"> <a href="./Day09.md" target=""><img align="center" src="./../Resources/back.png" width="100" /></a>  <a href="./Day11.md" target=""><img align="center" src="./../Resources/next.png" width="100" /></a> </p>
+<p align="center"> <a href="./Day10.md" target=""><img align="center" src="./../Resources/back.png" width="100" /></a>  <a href="./Day12.md" target=""><img align="center" src="./../Resources/next.png" width="100" /></a> </p>
 
 
 ## **Day 10: Exception Handling and Error Handling in Python**
@@ -302,6 +302,6 @@ Today, you learned all about **exception handling** and **error handling** in Py
 1. [Error handling](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=errors-exceptions)
 ----------------------
 
-<p align="center"> <a href="./Day09.md" target=""><img align="center" src="./../Resources/back.png" width="100" /></a>  <a href="./Day11.md" target=""><img align="center" src="./../Resources/next.png" width="100" /></a> </p>
+<p align="center"> <a href="./Day10.md" target=""><img align="center" src="./../Resources/back.png" width="100" /></a>  <a href="./Day12.md" target=""><img align="center" src="./../Resources/next.png" width="100" /></a> </p>
 
 ---------------
