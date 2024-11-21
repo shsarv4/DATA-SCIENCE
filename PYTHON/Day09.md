@@ -9,7 +9,7 @@ By the end of Day 9, You will understand how to use sets effectively, including 
 
 ### Vidoes
 1. **[Video 1](https://www.youtube.com/watch?v=l3kCO8cVA6o&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=31&ab_channel=CodeWithHarry)**
-2. **[Video 2](https://www.youtube.com/watch?v=l3kCO8cVA6o&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=32&ab_channel=CodeWithHarry)**
+2. **[Video 2](https://www.youtube.com/watch?v=HOrutCnp2zo&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=32&ab_channel=CodeWithHarry)**
 ---
 
 ### **1. Theory**
