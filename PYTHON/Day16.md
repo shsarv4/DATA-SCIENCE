@@ -280,6 +280,6 @@ By the end of today, you should feel confident working with files, understanding
 
 ----------------
 
-<p align="center"> <a href="./Day11.md" target=""><img align="center" src="./../Resources/back.png" width="100" /></a>  <a href="./Day13.md" target=""><img align="center" src="./../Resources/next.png" width="100" /></a> </p>
+<p align="center"> <a href="./Day15.md" target=""><img align="center" src="./../Resources/back.png" width="100" /></a>  <a href="./Day17.md" target=""><img align="center" src="./../Resources/next.png" width="100" /></a> </p>
 
 ---------------
