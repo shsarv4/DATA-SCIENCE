@@ -303,6 +303,4 @@ By the end of today, you should feel comfortable using dictionaries, working wit
 ### Hackerrank Problems
 1. [no problem found](#)
 ----------------------
-
-<h1 align="center">🌱 30 Days of Python 🌱</h1>
 <p align="center"> <a href="./Day09.md" target=""><img align="center" src="./../Resources/back.png" width="100" /></a>  <a href="./Day11.md" target=""><img align="center" src="./../Resources/next.png" width="100" /></a> </p>
