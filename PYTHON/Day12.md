@@ -9,6 +9,7 @@
 2. **[Video 2](https://www.youtube.com/watch?v=OErhjT4f5Cs&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=53&ab_channel=CodeWithHarry)**
 3. **[Video 3](https://www.youtube.com/watch?v=UfFWf-PXUqE&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=52&ab_channel=CodeWithHarry)**
 4. **[Video 4](https://www.youtube.com/watch?v=bthQCK1QAmQ&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=16&ab_channel=CodeWithHarry)**
+5. **[Video 5](https://www.youtube.com/watch?v=TOemdfX_0xc&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=54&ab_channel=CodeWithHarry)**
 
 ---
 
@@ -478,6 +479,160 @@ Name: Alice, Age: 30
 2. Match a list of numbers and print whether they are odd or even.
 
 -----------
+
+## 7. **Understanding `is` vs `==` in Python**
+
+In Python, both `is` and `==` are used for comparison, but they serve different purposes. It’s crucial to understand their distinction, as using one in the wrong context can lead to unexpected behavior.
+
+---
+
+## **7.1. The `==` Operator (Equality Comparison)**
+
+### **What Does `==` Do?**
+
+The `==` operator is used to check if the values of two objects are equal. It compares the **contents** or **values** of two objects, not their identities (i.e., whether they are the same object in memory).
+
+#### **Example**:
+
+```python
+x = [1, 2, 3]
+y = [1, 2, 3]
+
+print(x == y)  # Outputs: True (because the lists have the same values)
+```
+
+- Even though `x` and `y` are two separate list objects, their values are identical, so `x == y` returns `True`.
+
+### **Use Case of `==`**
+- **Equality of Values**: When you need to check if two variables or objects have the same value or contents.
+- **List, String, Dictionary Comparison**: Checking if two strings, lists, tuples, or dictionaries contain the same data.
+
+#### **Important Point**:
+- The `==` operator uses the `__eq__` method under the hood to compare objects' values. You can override this method in your custom classes to define what it means for two instances of that class to be "equal."
+
+---
+
+## ** 7.2. The `is` Operator (Identity Comparison)**
+
+### **What Does `is` Do?**
+
+The `is` operator checks if two objects are the **same object** in memory, i.e., it checks if they have the same **identity**.
+
+- `is` compares the **memory address** of two objects, not their values.
+- It returns `True` if both operands point to the **same object** in memory (i.e., they have the same identity), and `False` otherwise.
+
+#### **Example**:
+
+```python
+x = [1, 2, 3]
+y = [1, 2, 3]
+
+print(x is y)  # Outputs: False (because x and y are different objects in memory)
+
+z = x
+print(x is z)  # Outputs: True (because z is just another reference to x, they share the same memory address)
+```
+
+- Even though `x` and `y` contain the same values, they are two separate objects in memory, so `x is y` returns `False`.
+- However, `x is z` returns `True` because `z` is pointing to the same object as `x`.
+
+### **Use Case of `is`**
+- **Identity Comparison**: When you need to check if two variables refer to the same object in memory.
+- **Singletons**: Commonly used when comparing to singletons like `None`, which is a unique object in Python.
+
+#### **Example with `None`**:
+
+```python
+a = None
+b = None
+print(a is b)  # Outputs: True (because None is a singleton in Python)
+```
+
+- `None` is a unique object in Python, so both `a` and `b` reference the same object in memory.
+
+---
+
+## **Key Differences Between `==` and `is`**
+
+| Aspect                    | `==` (Equality)                            | `is` (Identity)                          |
+|---------------------------|-------------------------------------------|------------------------------------------|
+| **Purpose**                | Checks if values of two objects are equal  | Checks if two objects are the same in memory (identity) |
+| **Compares**               | Compares **values** of objects            | Compares **memory addresses/identities** of objects |
+| **Use case**               | Use when you care about values being equal | Use when you care about whether two references point to the same object |
+| **Example**                | `x == y` checks if values are equal       | `x is y` checks if `x` and `y` refer to the same object in memory |
+| **Common Objects**         | Lists, strings, numbers, dictionaries, etc. | Singleton objects like `None`, `True`, `False`, or when checking object identity |
+
+---
+
+## **When to Use `==` and When to Use `is`?**
+
+### **Use `==` when:**
+- You want to check if two variables have the **same value**.
+  - Example: Comparing numbers, lists, strings, etc., for equality.
+
+### **Use `is` when:**
+- You want to check if two variables **point to the same object** (i.e., they have the same memory address).
+  - Example: Comparing to `None`, checking if two variables refer to the same object in memory.
+
+---
+
+### **Practical Examples:**
+
+#### **Using `==` for Value Equality:**
+
+```python
+a = [1, 2, 3]
+b = [1, 2, 3]
+print(a == b)  # True (same values)
+
+a = "hello"
+b = "hello"
+print(a == b)  # True (same string value)
+```
+
+#### **Using `is` for Identity Comparison:**
+
+```python
+a = [1, 2, 3]
+b = [1, 2, 3]
+print(a is b)  # False (different objects in memory)
+
+x = [1, 2, 3]
+y = x
+print(x is y)  # True (same object in memory)
+
+a = None
+b = None
+print(a is b)  # True (None is a singleton)
+```
+
+---
+
+## **Important Considerations**
+
+- **Mutable vs Immutable Types**: For **mutable types** like lists or dictionaries, two variables can point to the same object or different objects with the same content. `==` compares the values, while `is` checks if they refer to the same object.
+  - Example with lists:
+    ```python
+    a = [1, 2, 3]
+    b = a[:]  # New object with same values
+    print(a == b)  # True (same values)
+    print(a is b)  # False (different objects in memory)
+    ```
+
+- **Caching in Python**: For **immutable types** like integers and strings, Python may cache small values (typically integers between -5 and 256, and some strings). So, `is` might return `True` even when comparing different variables.
+
+  ```python
+  x = 256
+  y = 256
+  print(x is y)  # True (Python caches small integers)
+
+  x = 257
+  y = 257
+  print(x is y)  # False (Python does not cache large integers)
+  ```
+
+- Use `==` for checking if two objects have the same data or value, and use `is` when checking if two references point to the same object in memory.
+----------------
 
 <p align="center"> <a href="./Day11.md" target=""><img align="center" src="./../Resources/back.png" width="100" /></a>  <a href="./Day13.md" target=""><img align="center" src="./../Resources/next.png" width="100" /></a> </p>
 
