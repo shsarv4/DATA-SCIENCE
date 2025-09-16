@@ -1,7 +1,7 @@
 <h1 align="center">🌱 30 Days of Python 🌱</h1>
 <p align="center"> <a href="./Day17.md" target=""><img align="center" src="./../Resources/back.png" width="100" /></a>  <a href="./Day19.md" target=""><img align="center" src="./../Resources/next.png" width="100" /></a> </p>
 
-## **Day 18: The Definitive Guide to Classes & Objects (Beginner → Advanced)**
+## **Day 18: Better Understanding of Classes & Objects**
 
 ### **Objective**
 
