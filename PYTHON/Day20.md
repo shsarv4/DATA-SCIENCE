@@ -6,6 +6,17 @@
 
 # Day 20: Inheritance in Python – Reusing and Extending Classes
 
+
+1. [Vid 1](https://www.youtube.com/watch?v=-KsfUaQEY9Y&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=61)
+
+2. [vid 2](https://www.youtube.com/watch?v=-KsfUaQEY9Y&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=62)
+
+3. [vid3](https://www.youtube.com/watch?v=-KsfUaQEY9Y&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=65)
+
+4. [vid 4](https://www.youtube.com/watch?v=tQdaeiF4j38&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=66)
+
+5. []()
+
 ---
 
 ## 🎯 Objectives
