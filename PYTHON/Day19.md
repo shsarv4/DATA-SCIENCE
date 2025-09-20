@@ -1,11 +1,13 @@
 <h1 align="center">🌱 30 Days of Python 🌱</h1>
 <p align="center">
-  <a href="./Day19.md" target=""><img align="center" src="./../Resources/back.png" width="100" /></a>  <a href="./Day21.md" target=""><img align="center" src="./../Resources/next.png" width="100" /></a>
+  <a href="./Day18.md" target=""><img align="center" src="./../Resources/back.png" width="100" /></a>  <a href="./Day20.md" target=""><img align="center" src="./../Resources/next.png" width="100" /></a>
 </p>
 
 # Constructor in Python
 
-1. [Vid 1](https://www.youtube.com/watch?v=12HRkYld22c&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=59&ab_channel=CodeWithHarry)
+1.1. [Vid 1](https://www.youtube.com/watch?v=12HRkYld22c&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=58&ab_channel=CodeWithHarry)
+2. [Vid 2](https://www.youtube.com/watch?v=12HRkYld22c&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=59&ab_channel=CodeWithHarry)
+3. [Vid 3](https://www.youtube.com/watch?v=12HRkYld22c&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=60&ab_channel=CodeWithHarry)
 
 ## 🎯 Objectives
 
@@ -298,4 +300,4 @@ e2.display()
 ---
 
 
-<p align="center"> <a href="./Day19.md" target=""><img align="center" src="./../Resources/back.png" width="100" /></a>  <a href="./Day21.md" target=""><img align="center" src="./../Resources/next.png" width="100" /></a> </p>
+<p align="center"> <a href="./Day18.md" target=""><img align="center" src="./../Resources/back.png" width="100" /></a>  <a href="./Day20.md" target=""><img align="center" src="./../Resources/next.png" width="100" /></a> </p>
